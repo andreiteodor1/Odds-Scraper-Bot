@@ -1,2 +1,2 @@
 # Odds-Scraper-Bot
-Designed a modular, automated trading bot that extracts live odds via REST API, calculates True Odds using the Proportional Margin Method to find +EV market inefficiencies, and pushes real-time JSON alerts to a Discord Webhook. 
+An automated, object-oriented ETL (Extract, Transform, Load) pipeline built in Python. This system extracts live sports betting odds via REST API, calculates True Odds to identify +EV (Expected Value) market inefficiencies, and pushes real-time JSON alerts to a Discord Webhook. 
